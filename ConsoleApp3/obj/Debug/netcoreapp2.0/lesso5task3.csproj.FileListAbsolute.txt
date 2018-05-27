@@ -1,0 +1,11 @@
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\lesso5task3.deps.json
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\lesso5task3.runtimeconfig.json
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\lesso5task3.runtimeconfig.dev.json
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\lesso5task3.dll
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\lesso5task3.pdb
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\lesso5task3.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\lesso5task3.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\lesso5task3.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\lesso5task3.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\lesso5task3.dll
+C:\Users\Алексей\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\lesso5task3.pdb
